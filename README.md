@@ -1,6 +1,6 @@
 * A
 * B
-  
+   docs/uml-diagram.png
 * C
   1. Open a terminal/command prompt.
   2. Navigate to the directory containing the Java files (Vehicle.java, Car.java, Motorcycle.java, Truck.java, Driver.java, Main.java).
